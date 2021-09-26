@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-26T01:38:13.436Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="623nw0nsRgy1OMTHeg9s" version="15.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-26T22:16:01.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="31w1hLuLd_0x1Z4c3j-j" version="15.3.1" type="github">
   <diagram id="K2ibX2l2OvX5-s6gczWc" name="Page-1">
-    <mxGraphModel dx="1105" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1579" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,7 +41,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dyomKhumMqTRPVze4Xgc-10" value="JOB_CODE" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="dyomKhumMqTRPVze4Xgc-8">
+        <mxCell id="dyomKhumMqTRPVze4Xgc-10" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="dyomKhumMqTRPVze4Xgc-8">
           <mxGeometry x="30" width="160" height="30" as="geometry">
             <mxRectangle width="160" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -49,7 +49,7 @@
         <mxCell id="dyomKhumMqTRPVze4Xgc-87" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dyomKhumMqTRPVze4Xgc-1">
           <mxGeometry y="120" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dyomKhumMqTRPVze4Xgc-88" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="dyomKhumMqTRPVze4Xgc-87">
+        <mxCell id="dyomKhumMqTRPVze4Xgc-88" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="dyomKhumMqTRPVze4Xgc-87">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -78,57 +78,57 @@
         <mxCell id="dyomKhumMqTRPVze4Xgc-29" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dyomKhumMqTRPVze4Xgc-28">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dyomKhumMqTRPVze4Xgc-30" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="dyomKhumMqTRPVze4Xgc-29">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
+        <mxCell id="dyomKhumMqTRPVze4Xgc-30" value="PK+FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="dyomKhumMqTRPVze4Xgc-29">
+          <mxGeometry width="50" height="30" as="geometry">
+            <mxRectangle width="50" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyomKhumMqTRPVze4Xgc-31" value="EMP_CODE" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="dyomKhumMqTRPVze4Xgc-29">
-          <mxGeometry x="30" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
+          <mxGeometry x="50" width="130" height="30" as="geometry">
+            <mxRectangle width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyomKhumMqTRPVze4Xgc-32" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dyomKhumMqTRPVze4Xgc-28">
           <mxGeometry y="60" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dyomKhumMqTRPVze4Xgc-33" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="dyomKhumMqTRPVze4Xgc-32">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
+        <mxCell id="dyomKhumMqTRPVze4Xgc-33" value="PK+FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="dyomKhumMqTRPVze4Xgc-32">
+          <mxGeometry width="50" height="30" as="geometry">
+            <mxRectangle width="50" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyomKhumMqTRPVze4Xgc-34" value="PLAN_CODE" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="dyomKhumMqTRPVze4Xgc-32">
-          <mxGeometry x="30" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
+          <mxGeometry x="50" width="130" height="30" as="geometry">
+            <mxRectangle width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyomKhumMqTRPVze4Xgc-35" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dyomKhumMqTRPVze4Xgc-28">
           <mxGeometry y="90" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dyomKhumMqTRPVze4Xgc-36" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="dyomKhumMqTRPVze4Xgc-35">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
+          <mxGeometry width="50" height="30" as="geometry">
+            <mxRectangle width="50" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyomKhumMqTRPVze4Xgc-37" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="dyomKhumMqTRPVze4Xgc-35">
-          <mxGeometry x="30" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
+          <mxGeometry x="50" width="130" height="30" as="geometry">
+            <mxRectangle width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyomKhumMqTRPVze4Xgc-38" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dyomKhumMqTRPVze4Xgc-28">
           <mxGeometry y="120" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dyomKhumMqTRPVze4Xgc-39" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="dyomKhumMqTRPVze4Xgc-38">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
+          <mxGeometry width="50" height="30" as="geometry">
+            <mxRectangle width="50" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyomKhumMqTRPVze4Xgc-40" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="dyomKhumMqTRPVze4Xgc-38">
-          <mxGeometry x="30" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
+          <mxGeometry x="50" width="130" height="30" as="geometry">
+            <mxRectangle width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyomKhumMqTRPVze4Xgc-41" value="JOB" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="50" width="180" height="250" as="geometry" />
+          <mxGeometry x="40" y="50" width="180" height="240" as="geometry" />
         </mxCell>
         <mxCell id="dyomKhumMqTRPVze4Xgc-42" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dyomKhumMqTRPVze4Xgc-41">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -164,7 +164,7 @@
             <mxRectangle width="30" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dyomKhumMqTRPVze4Xgc-106" value="JOB_DESCRIPTION" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="dyomKhumMqTRPVze4Xgc-104">
+        <mxCell id="dyomKhumMqTRPVze4Xgc-106" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="dyomKhumMqTRPVze4Xgc-104">
           <mxGeometry x="30" width="150" height="60" as="geometry">
             <mxRectangle width="150" height="60" as="alternateBounds" />
           </mxGeometry>
@@ -253,7 +253,7 @@
         <mxCell id="dyomKhumMqTRPVze4Xgc-71" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;startArrow=ERmandOne;rounded=0;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dyomKhumMqTRPVze4Xgc-45">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="220" y="190" as="sourcePoint" />
-            <mxPoint x="526" y="100" as="targetPoint" />
+            <mxPoint x="526" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyomKhumMqTRPVze4Xgc-90" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dyomKhumMqTRPVze4Xgc-71">
@@ -266,19 +266,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dyomKhumMqTRPVze4Xgc-72" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;startArrow=ERmandOne;exitX=1.003;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.01;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" source="dyomKhumMqTRPVze4Xgc-64" target="dyomKhumMqTRPVze4Xgc-29">
+        <mxCell id="dyomKhumMqTRPVze4Xgc-72" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;startArrow=ERmandOne;endFill=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="270" y="490" as="sourcePoint" />
-            <mxPoint x="370" y="390" as="targetPoint" />
+            <mxPoint x="221" y="440" as="sourcePoint" />
+            <mxPoint x="518" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyomKhumMqTRPVze4Xgc-114" value="is found in" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dyomKhumMqTRPVze4Xgc-72">
           <mxGeometry x="0.063" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="dyomKhumMqTRPVze4Xgc-113" value="one job can be assigned to many employee" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="630" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dyomKhumMqTRPVze4Xgc-119" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;startArrow=ERmandOne;endFill=0;" edge="1" parent="1" target="dyomKhumMqTRPVze4Xgc-28">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -291,14 +288,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dyomKhumMqTRPVze4Xgc-121" value="An EMPLOYEE has only one JOB_CODE, but a JOB_CODE can be held&#xa;by many EMPLOYEEs.&#xa; An EMPLOYEE can participate in many PLANs, and any PLAN can be&#xa;assigned to many EMPLOYEEs." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="560" width="420" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="dyomKhumMqTRPVze4Xgc-122" value="employee has only one Job_code" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="610" width="190" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="dyomKhumMqTRPVze4Xgc-123" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;text-align: center&quot;&gt;EMPLOYEE has only one JOB_CODE&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center&quot;&gt;but one JOB_CODE can be assigned to many&amp;nbsp;&lt;/span&gt;EMPLOYEE&amp;nbsp;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center&quot;&gt;EMPLOYEE&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="420" y="660" width="410" height="80" as="geometry" />
+        <mxCell id="dyomKhumMqTRPVze4Xgc-123" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;text-align: center&quot;&gt;EMPLOYEE has only one JOB_CODE&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center&quot;&gt;but one JOB_CODE can be assigned to many&amp;nbsp;&lt;/span&gt;EMPLOYEE&amp;nbsp;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center&quot;&gt;EMPLOYEE can participate in many PLAN&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center&quot;&gt;any PLAN can be assigned to EMPLOYEEs&lt;/span&gt;&lt;/li&gt;&lt;li&gt;EMPLOYEE has many BENIFITS&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="40" y="590" width="410" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
